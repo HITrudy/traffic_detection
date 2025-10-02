@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# traffic_detection
-traffic_detection
-=======
 ## Requirements
 - Python 3.8+
 - ultralytics
@@ -10,4 +6,3 @@ traffic_detection
 ### Install dependencies
 ```bash
 pip install ultralytics opencv-python
->>>>>>> master
